@@ -99,4 +99,39 @@ p{
   padding: 3% 2%;
 }
 
+/* Call to action */
+
+#cta{
+  background-color: #FF4C68;
+  color: #fff;
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.cta-heading{
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+/* Footer */
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+
+}
+
+.social-icon{
+  margin: 20px 10px;
+}
+
+@media (max-width: 1028px) {
+
+  #title{
+    text-align: center;
+  }
+  .title-image{
+    position: static;
+    transform: rotate(0);
+  }
+}
 
