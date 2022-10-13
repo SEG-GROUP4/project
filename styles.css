@@ -88,3 +88,15 @@ p{
 /* Testimonials Section Mohamed*/
 
 
+/* Pricing */
+
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column{
+  padding: 3% 2%;
+}
+
+
