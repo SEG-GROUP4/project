@@ -54,6 +54,16 @@ p{
   margin: 5% 3% 5% 0;
 }
 
+/* Title Image */
+
+.title-image{
+  width: 60%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 30%;
+
+}
+
 
 /* Features Section */
 
