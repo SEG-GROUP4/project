@@ -85,7 +85,7 @@ p{
   color: #FF4C68;
 }
 
-/* Testimonials Section Mohamed*/
+/* Testimonials Section*/
 
 #testimonials {
   text-align: center;
@@ -96,7 +96,7 @@ p{
 .testimonial-image{
   width: 10%;
   border-radius: 100%;
-  margin-top:  20px;
+  margin: 20px;
 }
 
 .carousel-item{
