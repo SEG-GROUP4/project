@@ -90,7 +90,7 @@ p{
 #testimonials {
   padding: 7% 15%;
   text-align: center;
-  background-color: #EF8172;
+  background-color: #FF4C68;
   color: #fff;
 }
 
@@ -100,21 +100,12 @@ p{
   margin: 20px;
 }
 
-#press{
-  background-color: #EF8172;
-  text-align: center;
-  padding-bottom: 3%;
-}
 
-.press-logo{
-  width: 15%;
-  margin: 20px 20px 50px;
-}
 
 /* Team */
 
 #team{
-  background-color: #EF8172;
+  background-color: #FF4C68;
   text-align: center;
   padding-bottom: 3%;
   color: #fff;
@@ -125,8 +116,9 @@ p{
 }
 
 /* Press */
+
 #press{
-  background-color: #EF8172;
+  background-color: #FF4C68;
   text-align: center;
   padding-bottom: 3%;
 }
