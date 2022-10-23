@@ -31,7 +31,6 @@ p{
 }
 
 /* Navigation Bar */
-
 .navbar{
   padding-bottom: 4.5rem;
   transition: all ease .45s;
@@ -95,7 +94,6 @@ nav.scroll .navbar {
 }
 
 /* Title Image */
-
 .title-image{
   width: 60%;
   transform: rotate(25deg);
@@ -104,9 +102,7 @@ nav.scroll .navbar {
 
 }
 
-
 /* Features Section */
-
 #features{
   padding: 7% 15%;
 }
@@ -126,7 +122,6 @@ nav.scroll .navbar {
 }
 
 /* Testimonials Section*/
-
 #testimonials {
   text-align: center;
   background-color: #FF4C68;
@@ -145,7 +140,6 @@ nav.scroll .navbar {
 
 
 /* Team */
-
 #team{
   background-color: #FF4C68;
   text-align: center;
@@ -158,7 +152,6 @@ nav.scroll .navbar {
 }
 
 /* Press */
-
 #press{
   background-color: #FF4C68;
   text-align: center;
@@ -169,8 +162,8 @@ nav.scroll .navbar {
   width: 15%;
   margin: 20px 20px 50px;
 }
-/* Pricing */
 
+/* Pricing */
 #pricing{
   padding: 100px;
   text-align: center;
@@ -181,7 +174,6 @@ nav.scroll .navbar {
 }
 
 /* Call to action */
-
 #cta{
   background-color: #FF4C68;
   color: #fff;
