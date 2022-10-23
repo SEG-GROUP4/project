@@ -34,6 +34,7 @@ p{
 
 .navbar{
   padding-bottom: 4.5rem;
+  transition: all ease .45s;
 }
 
 .navbar-brand{
@@ -51,6 +52,22 @@ p{
   display: block;
   position: relative;
   padding: 0.2em 0;
+}
+
+/* when scrolling */
+nav.scroll {
+  background-color: #eb445d;
+  position: fixed;
+  transition: all ease .45s;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  width: 100%;
+}
+
+nav.scroll .navbar {
+  padding-bottom: 1rem;
+  margin-left: 20px;
 }
 
 /* Fade in */
