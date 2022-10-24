@@ -1,5 +1,5 @@
 // take user back up
-const toTop = //() => window.scrollTo({top: 0, behavior: 'smooth'}); (IDUSHAN)//
+const toTop = () => window.scrollTo({top: 0, behavior: 'smooth'}); 
 
 
 // show active menu when scrolling
@@ -8,7 +8,7 @@ const toTop = //() => window.scrollTo({top: 0, behavior: 'smooth'}); (IDUSHAN)//
 //window.addEventListener('scroll', function() { (MOHAMED)//
   const offset = window.pageYOffset;
   
-  if(offset > 150)
+  if(offset > 150) 
     nav.classList.add('scroll')
   else 
     nav.classList.remove('scroll')
