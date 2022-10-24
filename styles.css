@@ -241,11 +241,27 @@ nav.scroll .navbar {
   transition: opacity 1s;
 }
 
+#check, #check2, #check3{
+  opacity: 1;
+  font-size: 20px;
+  position: relative;
+  top: 10px;
+  color:#ffffff;
+  transition: 1s;
+}
+
+#check.fade, #check2.fade, #check3.fade{
+  opacity: 0;
+  font-size: 20px;
+  color:#ffffff;
+  transition: opacity 1s;
+}
+
 .delete-notice.fade, .delete-notice2.fade, .delete-notice3.fade { 
   opacity: 1;
   font-size:20px;
   position: relative;
-  bottom: 50px;
+  bottom: 95px;
   color:#ffffff;
   transition: 1s; 
 }
@@ -253,7 +269,7 @@ nav.scroll .navbar {
 .delete-notice, .delete-notice2, .delete-notice3 {
   opacity: 0;
   font-size:20px;
-  line-height:50px;
+  line-height:100px;
   color:#fcfcfc;
   transition: 1s;
  }
@@ -262,7 +278,8 @@ nav.scroll .navbar {
   opacity: 1;
   appearance:none!important;
   background:transparent;
-  height:50px;
+  position: relative;
+  bottom: 24px;
   padding:0 5px;
   width:100%;
   transition: opacity 1s;
@@ -272,7 +289,8 @@ nav.scroll .navbar {
   opacity: 0;
   appearance:none!important;
   background:transparent;
-  height:50px;
+  position: relative;
+  bottom: 24px;
   padding:0 5px;
   width:100%;
 }

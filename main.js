@@ -37,6 +37,10 @@ $("#confirm").on('change',function() {
      document.getElementById('confirm')
        slideSource.classList.add('fade');
 
+      var slideSource = document.getElementById('check');
+      document.getElementById('check')
+        slideSource.classList.add('fade');
+
     var slideSource = document.getElementById('.delete-notice');
     document.getElementById('.delete-notice')
       slideSource.classList.add('fade');
@@ -67,6 +71,10 @@ $("#confirm2").on('change',function() {
      document.getElementById('confirm2')
        slideSource.classList.add('fade');
 
+      var slideSource = document.getElementById('check2');
+      document.getElementById('check2')
+        slideSource.classList.add('fade');
+
     var slideSource = document.getElementById('.delete-notice2');
     document.getElementById('.delete-notice2')
       slideSource.classList.add('fade');
@@ -96,6 +104,10 @@ $("#confirm3").on('change',function() {
      var slideSource = document.getElementById('confirm3');
      document.getElementById('confirm3')
        slideSource.classList.add('fade');
+
+      var slideSource = document.getElementById('check3');
+      document.getElementById('check3')
+        slideSource.classList.add('fade');
 
     var slideSource = document.getElementById('.delete-notice3');
     document.getElementById('.delete-notice3')
