@@ -22,7 +22,7 @@ p{
 }
 
 #title {
-  background-color: #FF4C68;
+  background-color: #1f82f3;
   color: #fff;
 }
 
@@ -55,7 +55,7 @@ p{
 
 /* when scrolling */
 nav.scroll {
-  background-color: #eb445d;
+  background-color: #127af1;
   position: fixed;
   transition: all ease .45s;
   top: 0;
@@ -112,18 +112,18 @@ nav.scroll .navbar {
 }
 
 .icon{
-  color: #EF8172;
+  color: #1b67be;
   margin-bottom: 1rem;
 }
 
 .icon:hover{
-  color: #FF4C68;
+  color: #1f82f3;
 }
 
 /* Testimonials Section*/
 #testimonials {
   text-align: center;
-  background-color: #FF4C68;
+  background-color: #1f82f3;
   color: #fff;
 }
 
@@ -140,11 +140,11 @@ nav.scroll .navbar {
 
 /* Team */
 #team{
-  background-color: #FF4C68;
+  background-color: #1f82f3;
   text-align: center;
   padding-bottom: 3%;
   color: #fff;
-}
+}card
 
 .team-member{
   color: #fff;
@@ -152,7 +152,7 @@ nav.scroll .navbar {
 
 /* Press */
 #press{
-  background-color: #FF4C68;
+  background-color: #1f82f3;
   text-align: center;
   padding-bottom: 3%;
 }
@@ -174,7 +174,7 @@ nav.scroll .navbar {
 
 /* Call to action */
 #cta{
-  background-color: #FF4C68;
+  background-color: #1f82f3;
   color: #fff;
   padding: 7% 15%;
   text-align: center;
@@ -283,6 +283,7 @@ nav.scroll .navbar {
   width:60px;
   border-radius: 5px;
   border:1px solid #ffffff;
+  background-color: #1b67be;
   cursor:pointer;
   will-change: auto;
  }
