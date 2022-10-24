@@ -1,11 +1,11 @@
 // take user back up
-const toTop = () => window.scrollTo({top: 0, behavior: 'smooth'});
+const toTop = //() => window.scrollTo({top: 0, behavior: 'smooth'}); (IDUSHAN)//
 
 
 // show active menu when scrolling
-const nav = document.querySelector('nav');
+//const nav = document.querySelector('nav');(TAZIM)//
 
-window.addEventListener('scroll', function() {
+//window.addEventListener('scroll', function() { (MOHAMED)//
   const offset = window.pageYOffset;
   
   if(offset > 150)
