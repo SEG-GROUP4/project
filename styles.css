@@ -243,16 +243,16 @@ nav.scroll .navbar {
 
 #check, #check2, #check3{
   opacity: 1;
-  font-size: 20px;
+  font-size: 15px;
   position: relative;
-  top: 10px;
+  top: 15px;
   color:#ffffff;
   transition: 1s;
 }
 
 #check.fade, #check2.fade, #check3.fade{
   opacity: 0;
-  font-size: 20px;
+  font-size: 15px;
   color:#ffffff;
   transition: opacity 1s;
 }
@@ -261,7 +261,7 @@ nav.scroll .navbar {
   opacity: 1;
   font-size:20px;
   position: relative;
-  bottom: 95px;
+  bottom: 87px;
   color:#ffffff;
   transition: 1s; 
 }
@@ -279,7 +279,7 @@ nav.scroll .navbar {
   appearance:none!important;
   background:transparent;
   position: relative;
-  bottom: 24px;
+  bottom: 17px;
   padding:0 5px;
   width:100%;
   transition: opacity 1s;
@@ -290,7 +290,7 @@ nav.scroll .navbar {
   appearance:none!important;
   background:transparent;
   position: relative;
-  bottom: 24px;
+  bottom: 17px;
   padding:0 5px;
   width:100%;
 }
