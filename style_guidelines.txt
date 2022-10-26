@@ -25,7 +25,8 @@ Icons will change color when hovered over.
 
 Typography
 ==========
-We will be using Montserrat, Ubuntu from Google Fonts. These fonts will complement our trustworth and vibrant look.
+We will be using Montserrat, Ubuntu from Google Fonts. These fonts will complement our trustworth and vibrant look. In blue background white will be used
+as our font color, in white background we will use black and grey.
 
 Links
 =====
@@ -44,5 +45,8 @@ Team
 ====
 Team members will be displayed on a slide coded using Bootstrap5.
 
-
+Pricing
+=======
+Pricing boxes will be similar with other subscription based websites. We will stylize them using Bootstrap5. The 3 different pricing options should be 
+built as boxes with a "Sign Up" button at the end.
 
