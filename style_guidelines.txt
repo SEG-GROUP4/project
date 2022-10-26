@@ -1,0 +1,42 @@
+Overall Look and Feel of Discount Fellas
+=========================================
+
+The overall look and feel should be minimalist and trustworthy. We will avoid anything too flashy, 
+the website will provide a calm and gentle experience for the user.
+
+Colors
+=======
+
+For Discount Fellas, colors give the visitor a trustworthy feeling and a vibrant experience with all the contrast.
+
+- #AFAFAF
+- #1f82f3
+- #127af1
+- #1b67be
+- #1f82f3
+- #fff
+- #ffffff
+- #fcfcfc
+
+Iconography
+===========
+We will be using icons to demonstrate our selling points in the features section. We will get these icons by using Font Awesome external links.
+Icons will change color when hovered over.
+
+Typography
+==========
+We will be using Montserrat, Ubuntu from Google Fonts. These fonts will complement our trustworth and vibrant look.
+
+Links
+=====
+Links are not underlined however they change color when hovered over.
+
+Buttons
+=======
+Button colors will have a contrast in their colors. Styling of the buttons will be done by using Bootstrap5. Download buttons will have 
+Apple and Google icons which we will get from Font Awesome. We will also a back to top button at the footer. 
+
+Navbar
+======
+The navbar will guide the users to different sections of the website. Items on the navbar will be underlined when hovered over. 
+
