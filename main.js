@@ -3,7 +3,7 @@ const toTop = () => window.scrollTo({top: 0, behavior: 'smooth'});
 
 
 // show active menu when scrolling
-//const nav = document.querySelector('nav');(TAZIM)//
+const nav = document.querySelector('nav');
 
 //window.addEventListener('scroll', function() { (MOHAMED)//
   const offset = window.pageYOffset;
