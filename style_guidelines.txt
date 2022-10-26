@@ -2,7 +2,7 @@ Overall Look and Feel of Discount Fellas
 =========================================
 
 The overall look and feel should be minimalist and trustworthy. We will avoid anything too flashy, 
-the website will provide a calm and gentle experience for the user.
+the website will provide a calm and gentle experience for the user. The website will also be mobile and table friendly thanks to Bootstrap5.
 
 Colors
 =======
@@ -39,4 +39,10 @@ Apple and Google icons which we will get from Font Awesome. We will also a back 
 Navbar
 ======
 The navbar will guide the users to different sections of the website. Items on the navbar will be underlined when hovered over. 
+
+Team
+====
+Team members will be displayed on a slide coded using Bootstrap5.
+
+
 
