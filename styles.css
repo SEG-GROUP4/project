@@ -30,7 +30,7 @@ p{
   padding: 3% 15%;
 }
 
-/* Navigation Bar */
+
 .navbar{
   padding-bottom: 4.5rem;
   transition: all ease .45s;
@@ -53,7 +53,7 @@ p{
   padding: 0.2em 0;
 }
 
-/* when scrolling */
+
 nav.scroll {
   background-color: #127af1;
   position: fixed;
@@ -69,7 +69,7 @@ nav.scroll .navbar {
   margin-left: 20px;
 }
 
-/* Fade in */
+
 .nav-link::after {
   content: '';
   position: absolute;
@@ -88,12 +88,12 @@ nav.scroll .navbar {
   transform: translate3d(0, 0.2em, 0);
 }
 
-/* Download Buttons */
+
 .download-button{
   margin: 5% 3% 5% 0;
 }
 
-/* Title Image */
+
 .title-image{
   width: 60%;
   transform: rotate(25deg);
@@ -101,7 +101,7 @@ nav.scroll .navbar {
   right: 30%;
 }
 
-/* Features Section */
+
 #features{
   padding: 7% 15%;
 }
@@ -120,7 +120,7 @@ nav.scroll .navbar {
   color: #1f82f3;
 }
 
-/* Testimonials Section*/
+
 #testimonials {
   text-align: center;
   background-color: #1f82f3;
@@ -138,7 +138,6 @@ nav.scroll .navbar {
 }
 
 
-/* Team */
 #team{
   background-color: #1f82f3;
   text-align: center;
@@ -150,7 +149,7 @@ nav.scroll .navbar {
   color: #fff;
 }
 
-/* Press */
+
 #press{
   background-color: #1f82f3;
   text-align: center;
@@ -162,7 +161,7 @@ nav.scroll .navbar {
   margin: 20px 20px 50px;
 }
 
-/* Pricing */
+
 #pricing{
   padding: 100px;
   text-align: center;
@@ -172,7 +171,7 @@ nav.scroll .navbar {
   padding: 3% 2%;
 }
 
-/* Call to action */
+
 #cta{
   background-color: #1f82f3;
   color: #fff;
@@ -185,7 +184,7 @@ nav.scroll .navbar {
   line-height: 1.5;
 }
 
-/* Footer */
+
 #footer{
   padding: 7% 15%;
   text-align: center;
